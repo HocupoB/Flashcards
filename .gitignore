@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
